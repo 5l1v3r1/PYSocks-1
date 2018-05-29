@@ -182,7 +182,7 @@ For example:
 
 >>> socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5,"socks.example.com")
 >>> socket.socket = socks.socksocket
->>> urllib.urlopen("http://www.sourceforge.net/")
+>>> urllib.urlopen("https://github.com")
 
 
 PROBLEMS
@@ -197,5 +197,5 @@ negativeiq@users.sourceforge.net
 Please allow some time for your question to be received and handled.
 
 
-Dan-Haim,
-Author.
+B0RU70,
+-FuxProject.Org
