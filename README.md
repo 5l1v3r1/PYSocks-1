@@ -92,7 +92,7 @@ Example of usage:
 After the setproxy method has been called, simply call the connect method with the
 traditional parameters to establish a connection through the proxy:
 
->>> s.connect(("www.sourceforge.net",80))
+>>> s.connect(("https://github.com",80))
 >>>
 
 Connection will take a bit longer to allow negotiation with the proxy server.
@@ -192,7 +192,7 @@ If you have any problems using this module, please first refer to the BUGS file
 (containing current bugs and issues). If your problem is not mentioned you may
 contact the author at the following E-Mail address:
 
-negativeiq@users.sourceforge.net
+B0RU70@protonmail.ch
 
 Please allow some time for your question to be received and handled.
 
